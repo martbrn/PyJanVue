@@ -7,5 +7,12 @@
 </p>
 
 ## Technologies
+- [Python 3](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [VueJS](https://vuejs.org/)
+- [NPM](https://www.npmjs.com/)
+- [Pip-Env](https://pipenv.pypa.io/en/latest/install/#installing-pipenv)
 
-## Prerequisites
+<code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git <code>
+  
+## Install FrontEnd
