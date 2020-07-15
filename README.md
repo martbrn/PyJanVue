@@ -14,5 +14,4 @@
 - [Pip-Env](https://pipenv.pypa.io/en/latest/install/#installing-pipenv)
 
 <code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git <code>
-  
 ## Install FrontEnd
