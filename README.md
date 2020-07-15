@@ -16,3 +16,11 @@
 <pre><code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git </code></pre>
 
 ## Install FrontEnd
+<pre><code> 
+$ cd /PyJanVue/client
+$ npm install
+$ npm run serve
+</code></pre>
+<h4> Enter on http://localhost:8080/ in your Browser. </h4>
+
+## Install FrontEnd
