@@ -13,5 +13,6 @@
 - [NPM](https://www.npmjs.com/)
 - [Pip-Env](https://pipenv.pypa.io/en/latest/install/#installing-pipenv)
 
-<code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git <code>
+<pre><code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git </code></pre>
+
 ## Install FrontEnd
