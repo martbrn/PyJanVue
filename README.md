@@ -32,14 +32,13 @@ $ pip install django
 $ pip install djangorestframework
 $ python -m pip install django-cors-headers
 $ python manage.py createsuperuser
-</code></pre>
 
-<h4> Now enter:
-username: username
+Now enter:
+username: username  
 mail: username@username.com
-password: password</h4>
+password: password
 
-<pre><code> 
 $ python manage.py migrate
 $ python manage.py runserve
 </code></pre>
+
