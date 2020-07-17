@@ -42,3 +42,5 @@ $ python manage.py migrate
 $ python manage.py runserve
 </code></pre>
 
+<h4> Enter on http://localhost:8000/ in your Browser. </h4>
+
