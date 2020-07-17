@@ -16,6 +16,7 @@
 <pre><code> Before, on cmd: git clone https://github.com/martbrn/PyJanVue.git </code></pre>
 
 ## Install FrontEnd
+
 <pre><code> 
 $ cd /PyJanVue/client
 $ npm install
@@ -24,6 +25,7 @@ $ npm run serve
 <h4> Enter on http://localhost:8080/ in your Browser. </h4>
 
 ## Install Backend
+
 <pre><code> 
 $ python -m venv myenv
 $ cd myenv
