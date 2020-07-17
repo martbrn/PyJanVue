@@ -23,4 +23,23 @@ $ npm run serve
 </code></pre>
 <h4> Enter on http://localhost:8080/ in your Browser. </h4>
 
-## Install FrontEnd
+## Install Backend
+<pre><code> 
+$ python -m venv myenv
+$ cd myenv
+$ scripts/activate
+$ pip install django
+$ pip install djangorestframework
+$ python -m pip install django-cors-headers
+$ python manage.py createsuperuser
+</code></pre>
+
+<h4> Now enter:
+username: username
+mail: username@username.com
+password: password</h4>
+
+<pre><code> 
+$ python manage.py migrate
+$ python manage.py runserve
+</code></pre>
